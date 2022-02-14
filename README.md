@@ -1,6 +1,6 @@
 # how-do-computers-generate-random-numbers
 
-You may be wondering # how acomputer can actually generate a random number . With no input given , where does this “randomness” come from?
+You may be wondering how acomputer can actually generate a random number . With no input given , where does this “randomness” come from?
 To generate a “true” random number, the computer measures some type of physical phenomenon that takes place outside of the computer. For example, the computer could measure the
 radioactive decay of an atom. According to quantum theory, there’s no way to know for sure when radioactive decay will occur, so this is essentially “pure randomness” from the
 universe. An attacker wouldn’t be able to predict when radioactive decay would occur, so they wouldn’t know the random value.
